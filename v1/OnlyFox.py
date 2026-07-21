@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-#!/usr/bin/env python3
 
 """
 OnlyFox - Firefox Profile Audit Utility
