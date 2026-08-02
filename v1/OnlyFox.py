@@ -7,7 +7,7 @@ Author       : Iqlip (@iqlip)
 Organization : Currently Accepting Paychecks™
 Employment   : Need Job :)
 License      : MIT
-Version      : 1.0.0
+Version      : 1.0
 
 "Works on my machine."
 """
